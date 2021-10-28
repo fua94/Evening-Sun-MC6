@@ -7,3 +7,13 @@ https://line6.com/support/topic/61937-evening-sun-mc6-diy-midi-controller-for-hx
 and here
 
 https://www.madbeanpedals.com/forum/index.php?topic=33087.0
+
+
+Libraries used:
+
+Liquid Crystal
+https://github.com/fmalpartida/New-LiquidCrystal
+
+One Button
+https://github.com/mathertel/OneButton
+http://www.mathertel.de/Arduino/OneButtonLibrary.aspx
